@@ -1,0 +1,23 @@
+{
+  "name": "around-webpack",
+  "version": "1.0.0",
+  "description": "first experience ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woshinivek/around-webpack.git"
+  },
+  "author": "Konstantin Karavaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woshinivek/around-webpack/issues"
+  },
+  "homepage": "https://github.com/woshinivek/around-webpack#readme",
+  "devDependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
